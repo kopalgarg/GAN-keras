@@ -12,6 +12,7 @@ Radford et al. (2015) Unsupervised representation learning with deep convolution
 - in discriminator NN: use Leaky ReLU in all layers
  
 Data: https://www.kaggle.com/gasgallo/faces-data-new
+<br> <br>
 Output:
 <br> <br>
 Train 49
