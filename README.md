@@ -12,3 +12,10 @@ Radford et al. (2015) Unsupervised representation learning with deep convolution
 - in discriminator NN: use Leaky ReLU in all layers
  
 Data: https://www.kaggle.com/gasgallo/faces-data-new
+Output:
+![Train 49](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-49.png)
+![Train 40](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-40.png)
+![Train 30](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-30.png)
+![Train 20](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-20.png)
+![Train 10](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-10.png)
+![Train 1](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-1.png)
