@@ -13,15 +13,27 @@ Radford et al. (2015) Unsupervised representation learning with deep convolution
  
 Data: https://www.kaggle.com/gasgallo/faces-data-new
 Output:
+<br> <br>
 Train 49
+<br> 
 ![Train 49](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-49.png)
+<br> <br>
 Train 40
+<br> 
 ![Train 40](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-40.png)
-Train 30
+<br> <br>
+Train 30 
+<br> 
 ![Train 30](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-30.png)
+<br> <br>
 Train 20
+<br> 
 ![Train 20](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-20.png)
+<br> <br>
 Train 10
+<br> 
 ![Train 10](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-10.png)
+<br> <br>
 Train 1
+<br> 
 ![Train 1](https://raw.githubusercontent.com/kopalgarg/GAN-keras/main/output/train-1.png)
