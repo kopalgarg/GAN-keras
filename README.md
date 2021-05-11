@@ -11,3 +11,4 @@ Radford et al. (2015) Unsupervised representation learning with deep convolution
 - in generator NN: use ReLU in all layers except for output which uses Tanh
 - in discriminator NN: use Leaky ReLU in all layers
  
+Data: https://www.kaggle.com/gasgallo/faces-data-new
